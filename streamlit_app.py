@@ -1,6 +1,6 @@
 import streamlit
 import pandas as pd
-impoer requests
+import requests
 
 streamlit.title("I'm Deepen Gajjar")
 
